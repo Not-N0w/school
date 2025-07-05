@@ -1,0 +1,3 @@
+[submodule "numeral-systems-converter"]
+	path = numeral-systems-converter
+	url = https://github.com/Not-N0w/numeral-systems-converter.git
