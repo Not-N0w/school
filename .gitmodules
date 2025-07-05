@@ -1,12 +1,20 @@
 [submodule "numeral-systems-converter"]
 	path = numeral-systems-converter
 	url = https://github.com/Not-N0w/numeral-systems-converter.git
-[submodule "trees"]
-	path = trees
-	url = https://github.com/Not-N0w/trees.git
+	branch = main
+
+[submodule "tree-visualizer"]
+	path = tree-visualizer
+	url = https://github.com/Not-N0w/tree-visualizer.git
+	branch = main
+
 [submodule "tic-tac-toe"]
 	path = tic-tac-toe
 	url = https://github.com/Not-N0w/tic-tac-toe.git
+	branch = main
+
 [submodule "turing-machine-emulator"]
 	path = turing-machine-emulator
 	url = https://github.com/Not-N0w/turing-machine-emulator
+	branch = main
+
